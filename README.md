@@ -6,9 +6,9 @@ I also have knowledge in Database Modeling.</p>
 ## 
 
  <div>
-  <a href="https://github.com/MichaelMartinss">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MichaelMartinss&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelMartinss&layout=compact&langs_count=16&theme=highcontrast"/>
+  <a href="https://github.com/odevmichael">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=odevmichael&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odevmichael&layout=compact&langs_count=16&theme=highcontrast"/>
 </div>
 
 ##
@@ -31,7 +31,9 @@ I also have knowledge in Database Modeling.</p>
 
 <div> 
 
-  <a>https://img.shields.io/badge/Kick-53FC19?logo=kick&logoColor=fff </a>
+
+
+  <a href="https://kick.com/0devmichael" target="_blank">![Kick](https://img.shields.io/badge/Kick-53FC19?logo=kick&logoColor=fff)</a>
   <a href="https://instagram.com/odevmichael" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:odevmichael@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/odevmichael" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"   
