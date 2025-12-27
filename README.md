@@ -3,7 +3,7 @@
 <p align="left">Graduating in Systems Analysis and Development. I have knowledge in software development. I worked mainly with Web development, mainly with PHP, AngularJS, C#, TypeScript, Ionic, JavaScript, HTML, CSS and Sass.
 I also have knowledge in Database Modeling.</p>
 
-## 
+<!-- ## 
 
  <div>
   <a href="https://github.com/odevmichael">
@@ -11,6 +11,7 @@ I also have knowledge in Database Modeling.</p>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odevmichael&layout=compact&langs_count=16&theme=highcontrast"/>
 </div>
 
+## -->
 ##
 
 <div style="display: inline_block"><br>
